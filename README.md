@@ -18,7 +18,7 @@ The **IT Club Management System** is a comprehensive software solution designed 
 
 ## 🏠 Home Page / Dashboard
 
-[Download Home Page Screenshot](https://drive.google.com/file/d/1PcoyvDBo35_1n9KeusRf4-pfLk4CDKPa/view?usp=drive_link)
+![Screenshot](https://drive.google.com/uc?export=view&id=1PcoyvDBo35_1n9KeusRf4-pfLk4CDKPa)
 
 After login, the system presents a main menu to navigate all functionalities:
 
