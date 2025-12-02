@@ -1,4 +1,4 @@
-# IT Club Management System
+# IT Club Management System (Data structure project)
 
 ## Project Overview
 
