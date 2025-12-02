@@ -61,12 +61,16 @@ The system's workflow is visualized in the following flowchart:
 
 * **Add Member:** Input ID, name, and age.
   ![Home Page Screenshot](https://drive.google.com/uc?export=view&id=1-eGbmvWnzpLogMP9e8y3ncX2Hvy8qMv3)
+  
 * **Delete Member:** Remove members by ID.
   ![Screenshot](https://drive.google.com/uc?export=view&id=1mFM-sqmc8Bj0CekrOwYi-0iscdve2iO3)
+  
 * **Search Member:** Find members by ID.
   ![Screenshot](https://drive.google.com/uc?export=view&id=1kfTDGJtjE1JKiqlVgzKzOY4wkNgyzj22)
+  
 * **Edit Member Info:** Update member details.
   ![Home Page Screenshot](https://drive.google.com/uc?export=view&id=1-eGbmvWnzpLogMP9e8y3ncX2Hvy8qMv3)
+  
 * **Display Members:** View all members, sorted by ID.
 ![Screenshot](https://drive.google.com/uc?export=view&id=1880SrvK7y-2dGOO5-chyMXaqeejuyRsb)
 
