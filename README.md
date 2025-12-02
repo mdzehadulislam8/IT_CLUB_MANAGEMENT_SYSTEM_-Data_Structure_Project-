@@ -130,4 +130,3 @@ The **IT Club Management System** provides a reliable and practical solution for
 * Integrate with web/mobile platforms for wider accessibility.
 * Implement encryption and advanced security measures.
 
----
