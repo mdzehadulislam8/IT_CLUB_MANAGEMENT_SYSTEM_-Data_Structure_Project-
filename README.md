@@ -18,11 +18,11 @@ The **IT Club Management System** is a comprehensive software solution designed 
 
 ## 🏠 Home Page / Dashboard
 
-![Screenshot](https://drive.google.com/uc?export=view&id=1PcoyvDBo35_1n9KeusRf4-pfLk4CDKPa)
+![Home Page](https://drive.google.com/uc?export=view&id=1PcoyvDBo35_1n9KeusRf4-pfLk4CDKPa)
 
 After login, the system presents a main menu to navigate all functionalities:
 
-![Home Page Screenshot](https://drive.google.com/uc?export=view&id=1cwEAk9i2lB_kdGZspeEMZGcEg11Za_RH)
+![Main Menu](https://drive.google.com/uc?export=view&id=1cwEAk9i2lB_kdGZspeEMZGcEg11Za_RH)
 
 * Add, delete, search, and edit members
 * Add and delete events
@@ -35,8 +35,7 @@ After login, the system presents a main menu to navigate all functionalities:
 
 The system's workflow is visualized in the following flowchart:
 
-![Home Page](https://drive.google.com/uc?export=view&id=1Aswnf2czUaCGOhUiEsfu5mo0e4EJUEis)
-
+![Flowchart](https://drive.google.com/uc?export=view&id=1Aswnf2czUaCGOhUiEsfu5mo0e4EJUEis)
 
 **Explanation:**
 
@@ -58,30 +57,32 @@ The system's workflow is visualized in the following flowchart:
 
 ### 2. Member Management
 
-* **Add Member:** Input ID, name, and age.
-  ![Home Page Screenshot](https://drive.google.com/uc?export=view&id=1-eGbmvWnzpLogMP9e8y3ncX2Hvy8qMv3)
+* **Add Member:** Input ID, name, and age.  
+  ![Add Member](https://drive.google.com/uc?export=view&id=1-eGbmvWnzpLogMP9e8y3ncX2Hvy8qMv3)
   
-* **Delete Member:** Remove members by ID.
-  ![Screenshot](https://drive.google.com/uc?export=view&id=1mFM-sqmc8Bj0CekrOwYi-0iscdve2iO3)
+* **Delete Member:** Remove members by ID.  
+  ![Delete Member](https://drive.google.com/uc?export=view&id=1mFM-sqmc8Bj0CekrOwYi-0iscdve2iO3)
   
-* **Search Member:** Find members by ID.
-  ![Screenshot](https://drive.google.com/uc?export=view&id=1kfTDGJtjE1JKiqlVgzKzOY4wkNgyzj22)
+* **Search Member:** Find members by ID.  
+  ![Search Member](https://drive.google.com/uc?export=view&id=1kfTDGJtjE1JKiqlVgzKzOY4wkNgyzj22)
   
-* **Edit Member Info:** Update member details.
-  ![Home Page Screenshot](https://drive.google.com/uc?export=view&id=1-eGbmvWnzpLogMP9e8y3ncX2Hvy8qMv3)
+* **Edit Member Info:** Update member details.  
+  ![Edit Member Info](https://drive.google.com/uc?export=view&id=1oC0fjDTwon1TpmAyisttXAjXSVAfZ6_T)
   
-* **Display Members:** View all members, sorted by ID.
-![Screenshot](https://drive.google.com/uc?export=view&id=1880SrvK7y-2dGOO5-chyMXaqeejuyRsb)
+* **Display Members:** View all members, sorted by ID.  
+  ![Display Members](https://drive.google.com/uc?export=view&id=1880SrvK7y-2dGOO5-chyMXaqeejuyRsb)
 
 ### 3. Event Management
 
-* **Add Event:** Input event ID, name, and date.
-![Screenshot](https://drive.google.com/uc?export=view&id=1oC0fjDTwon1TpmAyisttXAjXSVAfZ6_T)
-* **Delete Event:** Remove events by ID.
-![Screenshot](https://drive.google.com/uc?export=view&id=1H6NAo72of3zNf-BFhkHqKPu9frz1oQqS)
+* **Add Event:** Input event ID, name, and date.  
+  ![Add Event](https://drive.google.com/uc?export=view&id=15XdLBVGfdXc4LmgDrOgOercgRNEYxmC1)
 
-* **Display Events:** View all events with details.
-![Screenshot Description](https://drive.google.com/uc?export=view&id=1jtcxgebaD5Yu8Ete2GRIFThmHtaOQoQz)
+* **Delete Event:** Remove events by ID.  
+  ![Delete Event](https://drive.google.com/uc?export=view&id=1H6NAo72of3zNf-BFhkHqKPu9frz1oQqS)
+
+* **Display Events:** View all events with details.  
+  ![Event Details](https://drive.google.com/uc?export=view&id=1jtcxgebaD5Yu8Ete2GRIFThmHtaOQoQz)
+
 ---
 
 ## Simulation / Testing
@@ -93,11 +94,6 @@ The system was tested using the following procedure:
 3. Test adding, editing, deleting, and searching members.
 4. Test adding, deleting, and displaying events.
 5. Check system behavior for invalid inputs and edge cases.
-
-**Screenshots of Testing:**
-![Test 1](images/test1.png)
-![Test 2](images/test2.png)
-*Additional screenshots can be added here…*
 
 ---
 
@@ -135,14 +131,3 @@ The **IT Club Management System** provides a reliable and practical solution for
 * Implement encryption and advanced security measures.
 
 ---
-
-## References
-
-1. [C Tutorials: Character Stuffing](https://studentprojects.in/software-development/c-tutorials/c/program-for-character-stuffing/)
-2. [CRC Program in C](https://www.javatpoint.com/crc-program-in-c)
-3. [Parity Check in C](https://www.geeksforgeeks.org/program-to-find-parity/)
-
----
-
-**License:** MIT License
-**Author:** Zehadul Islam
