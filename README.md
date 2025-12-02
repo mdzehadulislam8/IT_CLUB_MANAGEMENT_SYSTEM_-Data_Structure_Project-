@@ -77,12 +77,12 @@ The system's workflow is visualized in the following flowchart:
 ### 3. Event Management
 
 * **Add Event:** Input event ID, name, and date.
+![Screenshot](https://drive.google.com/uc?export=view&id=1oC0fjDTwon1TpmAyisttXAjXSVAfZ6_T)
 * **Delete Event:** Remove events by ID.
+![Screenshot](https://drive.google.com/uc?export=view&id=1H6NAo72of3zNf-BFhkHqKPu9frz1oQqS)
+
 * **Display Events:** View all events with details.
-
-![Add Event](images/add_event.png)
-![Display Events](images/display_events.png)
-
+![Screenshot Description](https://drive.google.com/uc?export=view&id=1jtcxgebaD5Yu8Ete2GRIFThmHtaOQoQz)
 ---
 
 ## Simulation / Testing
